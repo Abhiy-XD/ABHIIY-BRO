@@ -9,7 +9,7 @@ const Abhiiyh = {
      Nickname : Abhiiyh,
     Gender : Male,
     Relationship status :Commited,
-     Mobile OS: iPhone Xs,iOs 17.1.1
+     Mobile OS: iPhone Xs,iOs 17.2.1
               : Redmo 8 , Andorid 11
    Learing Coding: {
        Mobile: Dcoder,
