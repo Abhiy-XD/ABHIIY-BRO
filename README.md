@@ -1,16 +1,33 @@
 ### 👋 Hi, I'm Abhi
 
 <p align="center">
-  <a href="https://instagram.com/yourusername">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
+  <!-- Instagram -->
+  <a href="https://instagram.com/yourusername" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" alt="Instagram"/>
   </a>
-  <a href="https://facebook.com/yourusername">
-    <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook"/>
+  <br>
+  <!-- Facebook -->
+  <a href="https://facebook.com/yourusername" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/facebook-new.png" alt="Facebook"/>
   </a>
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
+  <br>
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="https://youtube.com/@yourusername">
-    <img src="https://img.icons8.com/fluency/48/youtube-play.png" alt="YouTube"/>
+  <br>
+  <!-- YouTube -->
+  <a href="https://youtube.com/@yourusername" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" alt="YouTube"/>
+  </a>
+  <br>
+  <!-- Twitter / X -->
+  <a href="https://x.com/yourusername" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" alt="Twitter"/>
+  </a>
+  <br>
+  <!-- Gmail -->
+  <a href="mailto:yourmail@example.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/gmail.png" alt="Gmail"/>
   </a>
 </p>
