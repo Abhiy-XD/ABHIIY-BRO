@@ -1,19 +1,16 @@
-### Hi there 👋
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+To+Shuhaiiib+Official+GitHub+AC;Follow+Me+Now)](https://git.io/typing-svg)
-<p align="left"> <a href="https://instagram.com/abhiiiiiyh?igshid=YTQwZjQ0NmI0OA==" target="blank"><img src="https://img.shields.io/badge/Follow%20@abhiiiiiyh_-h?color=black&style=for-the-badge&logo=instagram" alt="Viz Zer" /></a> </p>
-<h2 align="center">  About Me </h2>
+### 👋 Hi, I'm Abhi
 
-```js
-const Abhiiyh = {
-    Original name : "Shuhaib Ap",
-     Nickname : Abhiiyh,
-    Gender : Male,
-    Relationship status :Commited,
-     Mobile OS: iPhone Xs,iOs 17.2.1
-              : Redmo 8 , Andorid 11
-   Learing Coding: {
-       Mobile: Dcoder,
-       Computer: VS Code
-    },
-}; //by,Abhiiiy Bro
-```
+<p align="center">
+  <a href="https://instagram.com/yourusername">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
+  </a>
+  <a href="https://facebook.com/yourusername">
+    <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook"/>
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://youtube.com/@yourusername">
+    <img src="https://img.icons8.com/fluency/48/youtube-play.png" alt="YouTube"/>
+  </a>
+</p>
